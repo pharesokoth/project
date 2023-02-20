@@ -1,1 +1,2 @@
-.
+phares
+okoth
